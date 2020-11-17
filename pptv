@@ -1,0 +1,7 @@
+#include <stdio.h>
+void main(){
+int a,i;
+printf("请输入需要打印的行数：dao");
+scanf("%d",&a);
+for(i=0;i<a;i++)
+printf("hello world\n");}
