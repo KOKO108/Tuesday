@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(){
-	printf("Today is tuesday!");
+	printf("Today is 6-2!");
 }
