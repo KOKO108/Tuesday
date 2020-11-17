@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main(){
-	printf("Today is tuesday!/n");
+	printf("Today is 6-2!/n");
 }
 
 void Monday(){
